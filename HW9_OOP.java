@@ -1,6 +1,7 @@
 package hw9;
 
 public class EmpUtils {
+    
     private EmpUtils() {
     }
 
